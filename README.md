@@ -7,6 +7,7 @@ Test your memory by selecting each card once; select each of the 12 cards once t
 
 ## To Win
 If you can select each card once <u>only<u> until all twelve cards are selected, your score will display '12,' indicating that you've won.
+  ![image](https://user-images.githubusercontent.com/13988358/70845484-07ee9480-1e04-11ea-84f6-01f75bd81dc6.png)
 
 ## Losing a Round
 If you mistakenly select a card more than once, your score resets to zero, indicating that the game has restarted.

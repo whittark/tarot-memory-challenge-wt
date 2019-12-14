@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "tarot": "Fool",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/0.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "tarot": "Magician",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "tarot": "Priestess",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "tarot": "Empress",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/3.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "tarot": "Temperance",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/14.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "tarot": "World",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/21.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "tarot": "Moon",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/18.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "tarot": "Chariot",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/7.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "tarot": "Strength",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/8.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "tarot": "Hermit",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/9.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "tarot": "Wheel",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/10.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "tarot": "Sun",
+        "image": "https://gfx.tarot.com/images/site/decks/rider/full_size/19.jpg",
+        "clicked": false
+    }
+]
